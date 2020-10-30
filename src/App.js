@@ -1,9 +1,23 @@
-import logo from './logo.svg';
+import 'bootstrap';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <div className="container-md">
+        <div className="row">
+          <div className="col-sm">
+            Hello
+          </div>
+          <div className="col-sm">
+            Hello
+          </div>
+          <div className="col-sm">
+            Hello
+          </div>
+        </div>
+        
+      </div>
       <header className="App-header">
         <img src="https://www.txdot.gov/etc/designs/txdot/_jcr_content/global/header/logo.img.png/1496950554064.png" className="App-logo" alt="logo" />
         
