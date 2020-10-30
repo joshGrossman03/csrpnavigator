@@ -59,8 +59,7 @@ function App() {
                       target="_blank"
                       rel="noreferrer">1.4 Updating Sign Owner Contact Information in EPS</a> </ListGroup.Item>
                       <ListGroup.Item><a href="https://teams.microsoft.com/l/file/E6789C0C-0943-4513-B0EE-5FA8E8C23A3C?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%201%20-%20Program%20Administration%2F1.5%20Permit%20Application%20Intake%20Procedures%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
-                      target="_blank"
-                      rel="noreferrer">1.5 Permit Application Intake Procedures</a> </ListGroup.Item>
+                      >1.5 Permit Application Intake Procedures</a> </ListGroup.Item>
                     </ListGroup>
 
 
