@@ -52,9 +52,15 @@ function App() {
                       <ListGroup.Item><a href="https://teams.microsoft.com/l/file/574EFBA4-1EF0-437B-9ACB-78A80D35C121?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%201%20-%20Program%20Administration%2F1.2%20Processing%20Of%20Electronic%20Comptroller%20Receipts(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
                         target="_blank"
                         rel="noreferrer">1.2 Processing of Electronic Comptroller Reciepts</a></ListGroup.Item>
-                      <ListGroup.Item>Morbi leo risus</ListGroup.Item>
-                      <ListGroup.Item>Porta ac consectetur ac</ListGroup.Item>
-                      <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+                      <ListGroup.Item><a href="https://teams.microsoft.com/l/file/B22026F7-61F0-48D1-8980-EC025F3829EB?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%201%20-%20Program%20Administration%2F1.3%20Processing%20Of%20Checks%20Received%20For%20Commercial%20Signs(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                        target="_blank"
+                        rel="noreferrer">1.3 Processing of Checks Received for Commercial Signs</a></ListGroup.Item>
+                      <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/D7BC1756-B10D-4A16-BDBE-E3402EC4FDCF?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%201%20-%20Program%20Administration%2F1.4%20Updating%20Sign%20Owner%20Contact%20Information%20in%20EPS.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                      target="_blank"
+                      rel="noreferrer">1.4 Updating Sign Owner Contact Information in EPS</a> </ListGroup.Item>
+                      <ListGroup.Item><a href="https://teams.microsoft.com/l/file/E6789C0C-0943-4513-B0EE-5FA8E8C23A3C?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%201%20-%20Program%20Administration%2F1.5%20Permit%20Application%20Intake%20Procedures%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                      target="_blank"
+                      rel="noreferrer">1.5 Permit Application Intake Procedures</a> </ListGroup.Item>
                     </ListGroup>
 
 
