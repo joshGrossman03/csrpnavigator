@@ -26,15 +26,6 @@ function Chapter2 () {
                       <ListGroup.Item><a href="https://teams.microsoft.com/l/file/98E14676-BF4B-42ED-9C65-F7AEBF76091E?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.1%20New%20Application%20Inspection%20Pre%20Inspection%20Application%20Review(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
                         target="_blank"
                         rel="noreferrer">2.1 New Application Inspection Pre Inspection Application Review</a></ListGroup.Item>
-                      <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/091C72BA-C0FA-4F2B-917A-315C484F7AFD?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.10%20Map%20Creating%20Procedures(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
-                        target="_blank"
-                        rel="noreferrer">2.10 Map Creation Procedures</a> </ListGroup.Item>
-                      <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/24A12D08-B6E2-4F47-9F51-CD35AE66605B?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.11%20E-Mail%20Templates(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
-                        target="_blank"
-                        rel="noreferrer">2.11 Email Templates</a> </ListGroup.Item>
-                        <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/BB8C9894-2DD1-4E88-9E1B-DFB03AD6195B?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.12%20Conforming%20and%20Non-Conforming%20Signs%20with%20Violations(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
-                        target="_blank"
-                        rel="noreferrer">2.12 Conforming and Non-Conforming Signs With Violations</a> </ListGroup.Item>
                         <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/69A8A9A7-F43B-4BCB-BC43-9028D4A84041?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.2%20GPS%20Unit%20Calibration%20Standards%20and%20Required%20GPS%20Data(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
                         target="_blank"
                         rel="noreferrer">2.2 GPS Unit Calibration Standards and Required GPS Data</a> </ListGroup.Item>
@@ -62,6 +53,20 @@ function Chapter2 () {
                         <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/AE1E7214-7CD9-4C0E-9B32-29491A5F67A6?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.9%20Complaint%20Related%20Inspections(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
                         target="_blank"
                         rel="noreferrer">2.9 Complaint Related Inspections</a> </ListGroup.Item>
+                      <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/091C72BA-C0FA-4F2B-917A-315C484F7AFD?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.10%20Map%20Creating%20Procedures(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                        target="_blank"
+                        rel="noreferrer">2.10 Map Creation Procedures</a> </ListGroup.Item>
+                      <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/24A12D08-B6E2-4F47-9F51-CD35AE66605B?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.11%20E-Mail%20Templates(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                        target="_blank"
+                        rel="noreferrer">2.11 Email Templates</a> </ListGroup.Item>
+                        <ListGroup.Item> <a href="https://teams.microsoft.com/l/file/BB8C9894-2DD1-4E88-9E1B-DFB03AD6195B?tenantId=39dba476-5c09-4c63-91da-ce7a3ab5224d&fileType=pdf&objectUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram%2FShared%20Documents%2FGeneral%2FStandard%20Working%20Instructions%2FChapter%202%20-%20Inspections%2F2.12%20Conforming%20and%20Non-Conforming%20Signs%20with%20Violations(SWI)%20.pdf&baseUrl=https%3A%2F%2Ftxdot.sharepoint.com%2Fsites%2FCommercialSignsRegulatoryProgram&serviceName=teams&threadId=19:a9dbbb5be37e4ebebb0528d654bf482f@thread.skype&groupId=8a8a9d6f-713a-406d-8c3c-2fc8100a772f"
+                        target="_blank"
+                        rel="noreferrer">2.12 Conforming and Non-Conforming Signs With Violations</a> </ListGroup.Item>
+                        
+                        
+                        
+                        
+                        
                     </ListGroup>
 
 

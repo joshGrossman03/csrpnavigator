@@ -1,10 +1,8 @@
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
-
-
 import Chapter1 from '../src/components/chapter1';
-import Chapter2 from '../src/components/Chapter2';
+import Chapter2 from '../src/components/chapter2';
 
 function App() {
   return (
