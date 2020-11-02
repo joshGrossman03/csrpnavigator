@@ -3,7 +3,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
-function FileStructureNamingConvention () {
+function Fsnc () {
     return (
         <Accordion>
             <Card>
@@ -36,4 +36,4 @@ function FileStructureNamingConvention () {
     )
 }
 
-export default FileStructureNamingConvention;
+export default Fsnc;
