@@ -5,6 +5,7 @@ import Chapter1 from '../src/components/chapter1';
 import Chapter2 from '../src/components/chapter2';
 import Chapter3 from '../src/components/chapter3';
 import Chapter4 from '../src/components/chapter4';
+import FileStructureNamingConvention from '../src/components/filestructureandnamingconventions';
 import { withAuthenticator } from '@aws-amplify/ui-react';
 import {AmplifySignOut} from '@aws-amplify/ui-react';
 
@@ -24,6 +25,7 @@ function App() {
             <Chapter2></Chapter2>
             <Chapter3></Chapter3>
             <Chapter4></Chapter4>
+            <FileStructureNamingConvention></FileStructureNamingConvention>
           </div>
           <div className="col-sm">
             <h4 style={{ color: "#1e265b", textAlign: "left" }}>Official Policies and Guidance</h4>
