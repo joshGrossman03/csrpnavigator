@@ -9,7 +9,7 @@ function Chapter4() {
             <Card>
                 <Card.Header>
                     <Accordion.Toggle as={Button} variant="link" eventKey="0">
-                        Chapter 2 - Inspections
+                        Chapter 4 - Reference Guides
 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
