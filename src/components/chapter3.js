@@ -2,7 +2,7 @@ import Accordion  from 'react-bootstrap/Accordion';
 import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import Chapter2 from './chapter2';
+
 
 function Chapter3 () {
     return(
@@ -10,7 +10,7 @@ function Chapter3 () {
             <Card>
                 <Card.Header>
                     <Accordion.Toggle as={Button} variant="link" eventKey="0">
-                        Chapter 1 - Program Administration
+                        Chapter 3 - Complaints and Enforcement
       </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
