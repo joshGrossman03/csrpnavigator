@@ -14,6 +14,13 @@
     "categories": {
       "auth": {
         "csrpnavigatore4d2e7f2": {}
+      },
+      "function": {
+        "csrpnavigatore4d2e7f2CustomMessage": {
+          "REDIRECTURL": "https://prod.d7l8wk7toowbi.amplifyapp.com/",
+          "EMAILSUBJECT": "Welcom to CSRP Navigator",
+          "EMAILMESSAGE": "Your account has been confirmed. You can now log in and use the CSRP Navigator Tool."
+        }
       }
     }
   }

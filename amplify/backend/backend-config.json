@@ -3,7 +3,17 @@
     "csrpnavigatore4d2e7f2": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
-      "dependsOn": [],
+      "dependsOn": [
+        {
+          "category": "function",
+          "resourceName": "csrpnavigatore4d2e7f2CustomMessage",
+          "triggerProvider": "Cognito",
+          "attributes": [
+            "Arn",
+            "Name"
+          ]
+        }
+      ],
       "customAuth": false
     },
     "userPoolGroups": {
@@ -21,6 +31,13 @@
           ]
         }
       ]
+    }
+  },
+  "function": {
+    "csrpnavigatore4d2e7f2CustomMessage": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
     }
   }
 }

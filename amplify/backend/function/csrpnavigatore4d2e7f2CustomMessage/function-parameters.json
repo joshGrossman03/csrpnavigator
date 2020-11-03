@@ -1,0 +1,25 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "csrpnavigatore4d2e7f2",
+  "functionName": "csrpnavigatore4d2e7f2CustomMessage",
+  "resourceName": "csrpnavigatore4d2e7f2CustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": [
+    {
+      "key": "RESOURCENAME",
+      "value": "resourceName"
+    }
+  ],
+  "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "roleName": "csrpnavigatore4d2e7f2CustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": "https://prod.d7l8wk7toowbi.amplifyapp.com/",
+  "EMAILSUBJECT": "Welcom to CSRP Navigator",
+  "EMAILMESSAGE": "Your account has been confirmed. You can now log in and use the CSRP Navigator Tool.",
+  "RESOURCENAME": "resourceName",
+  "enableCors": false
+}
