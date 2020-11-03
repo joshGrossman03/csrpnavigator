@@ -6,19 +6,14 @@ import Chapter2 from '../src/components/chapter2';
 import Chapter3 from '../src/components/chapter3';
 import Chapter4 from '../src/components/chapter4';
 import Fsnc from '../src/components/fsanc';
-import Amplify, { Auth } from 'aws-amplify';
+import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
 Amplify.configure(awsconfig);
 
 
 
-Amplify.configure({
-    Auth: {
-        // REQUIRED - Amazon Cognito Region
-        region: 'us-east-1',
-    }
-});
+
 
 
 
