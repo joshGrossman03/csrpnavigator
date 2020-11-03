@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-csrpnavigator-dev-84209-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475611720958:role/amplify-csrpnavigator-dev-84209-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475611720958:role/amplify-csrpnavigator-dev-84209-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-csrpnavigator-dev-84209-deployment",
+      "UnauthRoleName": "amplify-csrpnavigator-dev-84209-unauthRole",
+      "StackName": "amplify-csrpnavigator-dev-84209",
+      "StackId": "arn:aws:cloudformation:us-east-2:475611720958:stack/amplify-csrpnavigator-dev-84209/c3536910-1de2-11eb-9688-020672b4da98",
+      "AmplifyAppId": "d7l8wk7toowbi"
+    }
+  }
+}
