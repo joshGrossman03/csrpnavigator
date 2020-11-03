@@ -1,6 +1,7 @@
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
+import CsrpTitle from '../src/components/csrptitle';
 import Chapter1 from '../src/components/chapter1';
 import Chapter2 from '../src/components/chapter2';
 import Chapter3 from '../src/components/chapter3';
@@ -23,10 +24,13 @@ function App() {
     <div className="App">
 
 
-      <div className="container-md">
-
+      <div className="container-fluid">
+      <AmplifySignOut/>
+        <CsrpTitle/>
+        
+      
         <div className="row" >
-        <AmplifySignOut/>
+       
           <div className="col-sm">
             <h4 style={{ color: "#1e265b", }}>Standard Working Instructions (SWI)</h4>
             <Chapter1/>
