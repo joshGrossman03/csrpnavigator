@@ -26,9 +26,8 @@ function App() {
       <div className="container-md">
 
         <div className="row" >
-        <AmplifySignOut style={{backgroundColor:'blue'}} />
+        <AmplifySignOut/>
           <div className="col-sm">
-            <AmplifySignOut/>
             <h4 style={{ color: "#1e265b", }}>Standard Working Instructions (SWI)</h4>
             <Chapter1/>
             <Chapter2/>
