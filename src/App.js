@@ -7,6 +7,7 @@ import Chapter2 from '../src/components/chapter2';
 import Chapter3 from '../src/components/chapter3';
 import Chapter4 from '../src/components/chapter4';
 import Fsnc from '../src/components/fsanc';
+import UsefulTools from '../src/components/tools';
 import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
@@ -21,18 +22,18 @@ Amplify.configure(awsconfig);
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{backgroundColor:'#ECEDED'}}>
 
 
-      <div className="container-fluid">
-      <AmplifySignOut/>
+      <div className="container-fluid" >
+      <AmplifySignOut style={{backgroundColor:'#CC7B29'}}></AmplifySignOut>
         <CsrpTitle/>
         
       
         <div className="row" >
        
           <div className="col-sm">
-            <h4 style={{ color: "#1e265b", }}>Standard Working Instructions (SWI)</h4>
+            <h4 style={{ color: "#1e265b"}}>Standard Working Instructions (SWI)</h4>
             <Chapter1/>
             <Chapter2/>
             <Chapter3/>
@@ -40,10 +41,11 @@ function App() {
             <Fsnc/>
           </div>
           <div className="col-sm">
-            <h4 style={{ color: "#1e265b", textAlign: "left" }}>Official Policies and Guidance</h4>
+            <h4 style={{ color: "#1e265b"}}>Official Policies and Guidance</h4>
           </div>
           <div className="col-sm">
-            <h4 style={{ color: "#1e265b", textAlign: "left" }}>Useful Tools</h4>
+            <h4 style={{ color: "#1e265b"}}>Useful Tools</h4>
+            <UsefulTools/>
           </div>
         </div>
 
