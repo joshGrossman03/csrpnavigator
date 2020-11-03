@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "csrpnavigatore4d2e7f2": {}
+        "csrpnavigatore4d2e7f2": {},
+        "userPoolGroups": {}
       },
       "function": {
         "csrpnavigatore4d2e7f2CustomMessage": {
