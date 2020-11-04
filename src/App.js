@@ -10,6 +10,7 @@ import Fsnc from '../src/components/fsanc';
 import UsefulTools from '../src/components/tools';
 import IndustryPolicies from '../src/components/industrypolicies';
 import HumanResourcesPolicies from '../src/components/hrpolicies';
+import StatutesRules from '../src/components/statutesandrules'
 import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
@@ -50,6 +51,18 @@ function App() {
           <div className="col-sm">
             <h4 style={{ color: "#1e265b"}}>Useful Tools</h4>
             <UsefulTools/>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-sm">
+          <h4 style={{ color: "#1e265b"}}>Rules and Statutes</h4>
+          <StatutesRules/>
+          </div>
+          <div className="col-sm">
+          <h4 style={{ color: "#1e265b"}}>Accessing EPS</h4>
+          </div>
+          <div className="col-sm">
+          <h4 style={{ color: "#1e265b"}}>Templates</h4>
           </div>
         </div>
 
