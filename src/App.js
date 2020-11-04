@@ -8,6 +8,7 @@ import Chapter3 from '../src/components/chapter3';
 import Chapter4 from '../src/components/chapter4';
 import Fsnc from '../src/components/fsanc';
 import UsefulTools from '../src/components/tools';
+import Policies from '../src/components/policies';
 import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
@@ -42,6 +43,7 @@ function App() {
           </div>
           <div className="col-sm">
             <h4 style={{ color: "#1e265b"}}>Official Policies and Guidance</h4>
+            <Policies/>
           </div>
           <div className="col-sm">
             <h4 style={{ color: "#1e265b"}}>Useful Tools</h4>
