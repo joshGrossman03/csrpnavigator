@@ -3,7 +3,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
-function Policies () {
+function IndustryPolicies () {
     return (
         <Accordion>
             <Card>
@@ -46,4 +46,4 @@ function Policies () {
     )
 }
 
-export default Policies;
+export default IndustryPolicies;
