@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^0.2.27",
+    "@aws-amplify/ui-react": "^0.2.26",
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "aws-amplify": "^3.3.7",
+    "amplify": "0.0.11",
+
+    "aws-amplify": "^3.3.6",
     "bootstrap": "^4.5.3",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
@@ -20,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "stop": "react-scripts-stop"
+    "stop": "react-scripts stop"
   },
   "eslintConfig": {
     "extends": [
