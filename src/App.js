@@ -1,16 +1,9 @@
 
 import 'bootstrap/dist/css/bootstrap.css';
+import {BrowserRouter}from 'react-router-dom';
 import './App.css';
 import CsrpTitle from '../src/components/csrptitle';
-import Chapter1 from '../src/components/chapter1';
-import Chapter2 from '../src/components/chapter2';
-import Chapter3 from '../src/components/chapter3';
-import Chapter4 from '../src/components/chapter4';
-import Fsnc from '../src/components/fsanc';
-import UsefulTools from '../src/components/tools';
-import IndustryPolicies from '../src/components/industrypolicies';
-import HumanResourcesPolicies from '../src/components/hrpolicies';
-import StatutesRules from '../src/components/statutesandrules'
+import Navigation from '../src/components/navigation/navigation';
 import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
@@ -25,50 +18,22 @@ Amplify.configure(awsconfig);
 
 function App() {
   return (
+    <BrowserRouter>
     <div className="App" style={{backgroundColor:'#ECEDED'}}>
-
-
+      
+    
       <div className="container-fluid" >
       <AmplifySignOut style={{backgroundColor:'#CC7B29'}}></AmplifySignOut>
         <CsrpTitle/>
-        
-      
-        <div className="row" >
+        <Navigation/>
        
-          <div className="col-sm">
-            <h4 style={{ color: "#1e265b"}}>Standard Working Instructions (SWI)</h4>
-            <Chapter1/>
-            <Chapter2/>
-            <Chapter3/>
-            <Chapter4/>
-            <Fsnc/>
-          </div>
-          <div className="col-sm">
-            <h4 style={{ color: "#1e265b"}}>Official Policies and Guidance</h4>
-            <IndustryPolicies/>
-            <HumanResourcesPolicies/>
-          </div>
-          <div className="col-sm">
-            <h4 style={{ color: "#1e265b"}}>Useful Tools</h4>
-            <UsefulTools/>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-sm">
-          <h4 style={{ color: "#1e265b"}}>Rules and Statutes</h4>
-          <StatutesRules/>
-          </div>
-          <div className="col-sm">
-          <h4 style={{ color: "#1e265b"}}>Accessing EPS</h4>
-          </div>
-          <div className="col-sm">
-          <h4 style={{ color: "#1e265b"}}>Templates</h4>
-          </div>
-        </div>
-
+        
+        
       </div>
-
+      Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
     </div>
+    </BrowserRouter>
+    
   );
 }
 

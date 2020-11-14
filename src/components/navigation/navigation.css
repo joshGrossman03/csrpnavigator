@@ -1,0 +1,16 @@
+.csrpNavigator li{
+    text-decoration: none;
+    text-align:left;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .csrpNavigator a:hover{
+    color: coral;
+  }
+
+ .navicon {
+     padding: 20px;
+     width:10rem;
+     height:10rem;
+ }
