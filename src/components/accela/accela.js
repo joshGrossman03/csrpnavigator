@@ -21,6 +21,9 @@ function Accela () {
                             <ListGroup.Item><a href="https://txdot-prod-av.accela.com/security/hostSignon.do?signOff=true"
                                 target="_blank"
                                 rel="noreferrer">Accela Automation (Back Office Login)</a> </ListGroup.Item>
+                                <ListGroup.Item><a href="https://aca-prod.accela.com/TXDOT/Default.aspx"
+                                target="_blank"
+                                rel="noreferrer">Accela Citizen Access (Public User Login)</a> </ListGroup.Item>
 
                           
                         </ListGroup>

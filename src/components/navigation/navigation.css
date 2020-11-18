@@ -14,3 +14,9 @@
      width:10rem;
      height:10rem;
  }
+
+ .linkLabel {
+   text-align: left;
+   margin-top: 2px;
+   text-decoration: none;
+ }

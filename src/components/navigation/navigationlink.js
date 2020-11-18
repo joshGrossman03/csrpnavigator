@@ -1,24 +1,22 @@
-import {OverlayTrigger,Tooltip} from 'react-bootstrap';
+import {Card} from 'react-bootstrap';
 import {Link} from 'react-router-dom';
+import '../navigation/navigation.css';
+
 
 function NavLink (props) {
     
         return(
-            <>
-                            {['bottom'].map((placement) => (
-                                <OverlayTrigger
-                                    key={placement}
-                                    placement={placement}
-                                    overlay={
-                                        <Tooltip id={`tooltip-${placement}`}>
-                                            {props.tooltip}
-                                            </Tooltip>
-                                    }
-                                >
-                                    <Link  onClick={props.clicked} to={props.to}><img className="navicon"src={props.source} alt={props.desc}></img></Link>
-                                </OverlayTrigger>
-                            ))}
-                        </>
+
+            <Card style={{ width: '18rem', display: 'inline-block' }}>
+  <Card.Body>
+    <Card.Title>{props.linkName}</Card.Title>
+    <Link  onClick={props.clicked} to={props.to} ><img className="navicon"src={props.source} alt={props.desc}></img></Link>
+  </Card.Body>
+</Card>
+            
+                                    
+                                    
+                             
         )
 
     

@@ -3,6 +3,7 @@ import SWI from '../src/components/swi/swi'
 import Policies from '../src/components/policies/policies';
 import RulesAndStatutes from '../src/components/rulesandstatutes/rulesandstatutes';
 import Maps from '../src/components/maps/maps';
+import Accela from '../src/components/accela/accela';
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 import Layout from '../src/components/layout/layout';
@@ -23,6 +24,7 @@ function App() {
             <Route path="/policies" exact component={Policies}></Route>
             <Route path="/rulesandstatutes" exact component={RulesAndStatutes}></Route>
             <Route path="/maps" exact component={Maps}></Route>
+            <Route path="/accela" exact component={Accela}></Route>
       </Switch>
     </Layout>
     </div>
