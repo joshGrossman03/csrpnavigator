@@ -11,6 +11,7 @@ import Amplify from 'aws-amplify';
 import awsconfig from './aws-exports';
 import {Route, Switch} from 'react-router-dom';
 import { withAuthenticator } from '@aws-amplify/ui-react';
+import UsefulTools from './components/usefultools/usefultools';
 Amplify.configure(awsconfig);
 
 
@@ -25,6 +26,8 @@ function App() {
             <Route path="/rulesandstatutes" exact component={RulesAndStatutes}></Route>
             <Route path="/maps" exact component={Maps}></Route>
             <Route path="/accela" exact component={Accela}></Route>
+            <Route path="/usefultools" exact component={UsefulTools}></Route>
+            
       </Switch>
     </Layout>
     </div>
